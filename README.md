@@ -1,0 +1,1 @@
+cp /usr/local/python3/bin/pang /usr/bin

@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Name: pang
+Version: 1.0
+Summary: pang A stock
+Author: vycz
+Author-email: vycz@outlook.com
+License: UNKNOWN
+Platform: UNKNOWN
+
+cp /usr/local/python3/bin/pang /usr/bin
+
